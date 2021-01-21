@@ -8,6 +8,10 @@ namespace ConsoleApp1
     {
         public string Name { get; set; }
         public int Age { get; set; }
+
+        /// <summary>
+        /// Address
+        /// </summary>
         public string Address { get; set; }
     }
 }
