@@ -6,6 +6,7 @@ namespace ConsoleApp1
 {
     class User
     {
-        public int Name { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
     }
 }
