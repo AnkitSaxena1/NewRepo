@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             
-            // Use class user here after f1
+            // Use class user here after merge
         }
     }
 }
